@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=200&section=header&text=KRISH%20MAHAJAN&fontSize=70&fontAlignY=40&animation=twinkling&desc=SOFTWARE%20ENGINEER%20%7C%20IIoT%20INNOVATOR&descSize=20&descAlignY=60" width="100%" />
+  <img src="https://raw.githubusercontent.com/Krishmahajan334/Krishmahajan334/main/krish_github_banner_v2.png" width="100%" height="220" style="object-fit: cover; border-radius: 10px;" alt="Krish Mahajan Banner" />
 </p>
 
 <p align="center">
@@ -64,8 +64,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishmahajan334&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishmahajan334&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=Krishmahajan334&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Krishmahajan334&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=100&section=footer" width="100%"/>
 </p>
 
 <p align="center">
