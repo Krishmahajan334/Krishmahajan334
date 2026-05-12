@@ -10,7 +10,7 @@
   <a href="https://linktr.ee/krishmahajan1008" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/Krishmahajan3347">
+  <a href="https://www.linkedin.com/in/Krishmahajan3347" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -21,7 +21,7 @@
 > I bridge the gap between **Hardware Intelligence** and **Modern Web Architectures**. As a **Google Student Ambassador**, I lead technical innovation and community engagement.
 
 - 🏆 **National Junior Scientist (2023):** Honored by the Govt. of India for breakthrough innovation.
-- 🎓 **Google Ambassador:** Cohort 2026 Lead.
+- 🎓 **Google Student Ambassador:** Cohort 2026 Lead.
 - ⚡ **Founder of HGV:** Assistive Tech recognized by **DRDO** & **DST**.
 
 ---
@@ -33,9 +33,10 @@
 
 | Milestone | Organization | Status |
 | :--- | :--- | :--- |
-| **Google Student Ambassador** | Google | **Current** |
+| **Google Student Ambassador** | Google | **Current (2026)** |
 | **National Junior Scientist** | Govt. of India | **Distinction** |
-| **HGV Innovation Lead** | DRDO / NCSTC | **Certified** |
+| **HGV Innovation Lead** | DRDO / NCSTC | **Recognized** |
+| **Campus Mantri** | GeeksforGeeks | **Lead** |
 
 ---
 
@@ -54,9 +55,9 @@
 
 ---
 
-### 🗺️ Coding Journey (Isometric View)
+### 🏙️ Coding Journey (3D Isometric View)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Krishmahajan334/Krishmahajan334/output/github-contribution-grid-snake.svg" alt="Journey" width="100%" />
+  <img src="https://raw.githubusercontent.com/Krishmahajan334/Krishmahajan334/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D City" />
 </p>
 
 <p align="center">
