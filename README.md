@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Krishmahajan334/Krishmahajan334/main/krish_github_banner_v2.png" width="100%" alt="Krish Mahajan Banner" />
+  <img src="https://raw.githubusercontent.com/Krishmahajan334/Krishmahajan334/main/krish_github_banner_v2.png" width="600" alt="Krish Mahajan Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1DCD9F&center=true&vCenter=true&width=600&lines=KRISH+MAHAJAN;Software+Engineer+%7C+IIoT;Google+Student+Ambassador+2026;Junior+Scientist+Awardee" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1DCD9F&center=true&vCenter=true&width=500&lines=KRISH+MAHAJAN;Software+Engineer+%7C+IIoT;Google+Student+Ambassador+2026;Junior+Scientist+Awardee" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linktr.ee/krishmahajan1008" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/Krishmahajan3347" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -28,15 +28,8 @@
 
 ### 🎗️ Major Accomplishments
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Krishmahajan334&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Krishmahajan334&theme=dark&no-bg=false&margin-w=15" alt="Trophies" />
 </p>
-
-| Milestone | Organization | Status |
-| :--- | :--- | :--- |
-| **Google Student Ambassador** | Google | **Current (2026)** |
-| **National Junior Scientist** | Govt. of India | **Distinction** |
-| **HGV Innovation Lead** | DRDO / NCSTC | **Recognized** |
-| **Campus Mantri** | GeeksforGeeks | **Lead** |
 
 ---
 
@@ -47,21 +40,21 @@
 
 ---
 
-### 📊 Engineering Metrics
+### 📈 Engineering Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishmahajan334&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishmahajan334&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishmahajan334&show_icons=true&theme=dark&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishmahajan334&layout=compact&theme=dark&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishmahajan334&theme=dark&area=true" width="100%" />
 </p>
 
 ---
 
-### 🏙️ Coding Journey (3D Isometric View)
+### 🏙️ Coding Journey (3D View)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Krishmahajan334/Krishmahajan334/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D City" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishmahajan334&theme=tokyonight&bg_color=00000000&hide_border=true&area=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/Krishmahajan334/Krishmahajan334/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D City - Waiting for first run" />
 </p>
 
 ---
