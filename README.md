@@ -17,7 +17,7 @@
 ### 🛰️ MISSION CONTROL
 > **Computer Science Engineer** at **DKTE** specializing in **Industrial IoT**. Awarded **National Junior Scientist (2023)** by the Ministry of Science & Technology. I build systems where hardware meets intelligence.
 
-- 🏆 **State Recognition:** Honored by Prime Minister **Narendra Modi** for technical excellence.
+- 🏆 **National Recognition:** Featured in **National Technology Week 2023**, honored by Prime Minister **Narendra Modi**.
 - 🎓 **Google Student Ambassador:** Cohort 2026 Lead.
 - 🤖 **Current Focus:** Scaling **Attendance Automator V5.0** & **AI-Driven Embedded Systems**.
 - 🛠️ **Founder:** HGV (Hand Gestures Vocalizer) — recognized by **DRDO, DST, and NCSTC**.
