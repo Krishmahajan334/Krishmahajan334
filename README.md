@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Krishmahajan334/Krishmahajan334/main/krish_slim_header.png" width="100%" alt="Krish Mahajan Banner" />
+  <img src="https://raw.githubusercontent.com/Krishmahajan334/Krishmahajan334/main/krish_github_banner_v2.png" width="100%" alt="Krish Mahajan Banner" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@ I am a **Computer Science Engineer** and **Google Student Ambassador (2026)**. I
 
 - 🏆 **National Junior Scientist (2023)** – Recognized for excellence in innovation.
 - 🎓 **Google Student Ambassador** – Leading tech initiatives for the 2026 cohort.
-- ⚡ **Founder of HGV:** An AI-powered assistive technology recognized by **DRDO** and **NCSTC**.
+- ⚡ **Founder of HGV:** An AI-powered assistive technology recognized by **DRDO** and **DST**.
 
 ---
 
@@ -48,7 +48,7 @@ I am a **Computer Science Engineer** and **Google Student Ambassador (2026)**. I
 
 ---
 
-### 🐍 Coding Journey
+### 🐍 The Coding Journey
 <p align="center">
   <img src="https://raw.githubusercontent.com/Krishmahajan334/Krishmahajan334/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
