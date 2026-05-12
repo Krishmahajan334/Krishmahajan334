@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Krishmahajan334/Krishmahajan334/main/krish_github_banner.png" width="100%" alt="Krish Mahajan Banner" />
+  <img src="https://raw.githubusercontent.com/Krishmahajan334/Krishmahajan334/main/krish_github_banner_v2.png" width="100%" alt="Krish Mahajan Banner" />
 </p>
 
 <p align="center">
