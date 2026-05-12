@@ -11,7 +11,7 @@ I am a **Computer Science Engineering** student at D.K.T.E. with a minor in **In
 - 🏆 **Awarded Junior Scientist (2023)** – Honored to meet **PM Sh. Narendra Modi**.
 - 🛠️ Creator of **Hand Gestures Vocalizer (HGV)** – Recognized by DST, DRDO, and NCSTC.
 - 🎓 Currently exploring **AI/ML integration** with Full Stack development.
-- 🔭 Working on **Attendance Automator V5.0**.
+- ⚡ Working on **Attendance Automator V5.0**.
 
 ---
 
@@ -41,20 +41,20 @@ I am a **Computer Science Engineering** student at D.K.T.E. with a minor in **In
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishmahajan344&show_icons=true&theme=tokyonight" alt="Krish's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishmahajan334&show_icons=true&theme=tokyonight" alt="Krish's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishmahajan344&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishmahajan334&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishmahajan344&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishmahajan334&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Krishmahajan344&theme=tokyonight" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Krishmahajan334&theme=tokyonight" alt="trophy" />
 </p>
 
 ---
