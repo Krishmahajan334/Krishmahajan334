@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Krishmahajan334/Krishmahajan334/main/krish_github_banner_v2.png" width="100%" height="200" style="object-fit: cover;" alt="Krish Mahajan Banner" />
+  <img src="https://raw.githubusercontent.com/Krishmahajan334/Krishmahajan334/main/krish_github_banner_v2.png" width="100%" height="220" style="object-fit: cover; border-radius: 10px;" alt="Krish Mahajan Banner" />
 </p>
 
 <p align="center">
@@ -30,12 +30,6 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Krishmahajan334&theme=dark&no-bg=true&margin-w=15" alt="Trophies" />
 </p>
-
-| Milestone | Organization | Status |
-| :--- | :--- | :--- |
-| **Google Student Ambassador** | Google | **Current (2026)** |
-| **National Junior Scientist** | Govt. of India | **Distinction** |
-| **HGV Innovation Lead** | DRDO / NCSTC | **Recognized** |
 
 ---
 
