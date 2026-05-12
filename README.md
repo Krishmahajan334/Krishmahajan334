@@ -10,7 +10,7 @@
   <a href="https://linktr.ee/krishmahajan1008" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/Krishmahajan3347" target="_blank">
+  <a href="https://www.linkedin.com/in/krish-mahajan-617b50206" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -30,6 +30,12 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Krishmahajan334&theme=dark&no-bg=true&margin-w=15" alt="Trophies" />
 </p>
+
+| Milestone | Organization | Status |
+| :--- | :--- | :--- |
+| **Google Student Ambassador** | Google | **Current (2026)** |
+| **National Junior Scientist** | Govt. of India | **Distinction** |
+| **HGV Innovation Lead** | DRDO / NCSTC | **Recognized** |
 
 ---
 
