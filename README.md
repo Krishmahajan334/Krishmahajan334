@@ -22,6 +22,7 @@
 > 🌌 **Explore my cinematic motion portfolio at:** [krishmahajan.dev](https://krishmahajan.dev)
 
 - 🏆 **National Recognition:** Featured in **National Technology Week 2023**, honored by Prime Minister **Narendra Modi**.
+- 🏛️ **Leadership:** President of the Association of Computer Sciences and Engineering Students (ACSES).
 - 🎓 **Google Student Ambassador:** Cohort 2026 Lead.
 - 🤖 **Current Focus:** Scaling **Attendance Automator V5.0** & **AI-Driven Embedded Systems**.
 - 🛠️ **Founder:** HGV (Hand Gestures Vocalizer) — recognized by **DRDO, DST, and NCSTC**.
