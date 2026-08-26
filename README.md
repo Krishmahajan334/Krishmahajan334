@@ -7,10 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://krishmahajan.vercel.app" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=react&logoColor=black" /></a>
+  <a href="https://krishmahajan.dev" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=react&logoColor=black" /></a>
   <a href="https://linktr.ee/krishmahajan1008" target="_blank"><img src="https://img.shields.io/badge/LINKTREE-00E5FF?style=for-the-badge&logo=linktree&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/krish-mahajan-617b50206" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:krishmahajan.1008@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:contact@krishmahajan.dev"><img src="https://img.shields.io/badge/CONTACT_ME-00E5FF?style=for-the-badge&logo=minutemailer&logoColor=black" /></a>
 </p>
 
 ---
@@ -18,7 +19,7 @@
 ### 🛰️ MISSION CONTROL
 > **Computer Science Engineer** at **DKTE** specializing in **Industrial IoT**. Awarded **National Junior Scientist (2023)** by the Ministry of Science & Technology. I build systems where hardware meets intelligence. 
 > 
-> 🌌 **Explore my cinematic motion portfolio at:** [krishmahajan.vercel.app](https://krishmahajan.vercel.app)
+> 🌌 **Explore my cinematic motion portfolio at:** [krishmahajan.dev](https://krishmahajan.dev)
 
 - 🏆 **National Recognition:** Featured in **National Technology Week 2023**, honored by Prime Minister **Narendra Modi**.
 - 🎓 **Google Student Ambassador:** Cohort 2026 Lead.
